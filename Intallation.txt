@@ -1,0 +1,10 @@
+Required Installation:
+
+To install Jupyter Notebook in system: Open CMD(Ctrl+R) -> pip install jupyter
+
+1) pip install mathplotlib
+2) pip install pandas
+3) pip install numpay
+4) pip install -U scikit-learn
+5) pip install wordcloud
+6) pip install nltk
